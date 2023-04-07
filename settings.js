@@ -7,11 +7,11 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94789926985'] //ur owner number
+global.ownername = "Pasindu Mihiranga" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
+global.botname = 'ǫᴜᴇᴇɴ Misumi' //ur bot name
 global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
 
 global.keyopenai = "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",
